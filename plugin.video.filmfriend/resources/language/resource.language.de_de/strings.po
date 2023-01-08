@@ -103,6 +103,18 @@ msgctxt "#30508"
 msgid "Login credentials wrong"
 msgstr "Nutzereingaben sind falsch"
 
+msgctxt "#30509"
+msgid "OpenID support experimental"
+msgstr "Experiementelle Unterstützung von OpenID"
+
+msgctxt "#30510"
+msgid "No input form found"
+msgstr "Kein Eingabefeld gefunden"
+
+msgctxt "#30511"
+msgid "No password input found"
+msgstr "Kein Passwortfeld gefunden"
+
 msgctxt "#30600"
 msgid "Shows"
 msgstr "Serien"
